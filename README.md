@@ -1,3 +1,4 @@
+[![Build Status](https://saweb-scratch.visualstudio.com/CommerceMesh/_apis/build/status/webbsk.pipelines-java?branchName=master)](https://saweb-scratch.visualstudio.com/CommerceMesh/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
